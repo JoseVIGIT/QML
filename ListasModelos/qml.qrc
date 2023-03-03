@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Twitter/submodules/TweetsBox.qml</file>
+        <file>Twitter/js/twitter.js</file>
+        <file>Twitter/imagenes/avatar.png</file>
+        <file>Twitter/imagenes/loading.gif</file>
+        <file>Twitter/imagenes/twitterLogo.png</file>
+        <file>Twitter/submodules/TweetsBoxDelegate.qml</file>
+        <file>Twitter/Twitter.qml</file>
+    </qresource>
+</RCC>

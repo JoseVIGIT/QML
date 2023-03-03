@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>util.js</file>
+        <file>imagenes/fondo_edificio.jpg</file>
+        <file>imagenes/button_arrow_green.png</file>
+        <file>imagenes/fondo_pisoNumero.png</file>
+        <file>imagenes/frutas.jpg</file>
+        <file>imagenes/electronica.jpg</file>
+        <file>SlideModelImagenes.qml</file>
+        <file>SliderLateral.qml</file>
+        <file>SlideModelNews.qml</file>
+        <file>DelegateImagenes.qml</file>
+        <file>DelegateNews.qml</file>
+        <file>Teclado.qml</file>
+    </qresource>
+</RCC>

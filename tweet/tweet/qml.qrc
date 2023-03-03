@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tweetsearch.qml</file>
+        <file>content/FlipBar.qml</file>
+        <file>content/LineInput.qml</file>
+        <file>content/ListFooter.qml</file>
+        <file>content/ListHeader.qml</file>
+        <file>content/TweetDelegate.qml</file>
+        <file>content/SearchDelegate.qml</file>
+        <file>content/TweetsModel.qml</file>
+        <file>content/tweetsearch.js</file>
+        <file>content/resources/icon-search.png</file>
+    </qresource>
+</RCC>
